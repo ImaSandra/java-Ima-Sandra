@@ -1,0 +1,10 @@
+Hello there!
+
+ My name is Sandra and I am an undergrad student of International Law.
+ I got into the tech world few months ago, in November 2021, by learning about HTML and CSS.
+ My entry into the world of programming was purely out of curiosity but as I got deeper into the
+ various programming languages, I became enthusiastic. I wanted to learn more and all that I could.
+
+ This zeal is what is bringing me to pursue an opportunity of a career, possibly as a full stack developer.
+
+ One has to start from somewhere right? :(
